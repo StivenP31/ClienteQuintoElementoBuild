@@ -28,13 +28,14 @@ const Footer = () => {
         <MDBCol lg='6' md='12' className='mb-4 mb-md-0'>
           <h5 className='text-uppercase'>integrantes</h5>
 
-          <p>
-      *Carime Carroll* - No se de donde sacas tiempo para tantas cosas, *Lolys Sabalza* -como tienes cabeza para esto despues 
-      de un dia con pacientes *Eder Perez* - Este pequeño me ah sorprendido y me ah echo enojar tambien, te queremos
-      *jonathan Estiben* - Pobre me lo tienen volteando y calvo pero pide permiso para ayudarnos *Noe* - compañero siempre
-      dispuesto a ayudar
+      <h6>Carime Carroll - Scrum Master </h6>
+      <h6>Lolys Sabalza -Product Owner </h6>
+      <h6>Stiven Parada - Director y Developer (Back end y Front end)</h6>
+      <h6>Eder Perez - Developer Backend</h6>
+      <h6>jonathan Estiben - Developer Backend</h6>
+      <h6>Noe - Bases de datos</h6>
 
-          </p>
+          
         </MDBCol>
       </MDBRow>
     </MDBContainer>

@@ -1,4 +1,4 @@
-const API_URL="http://150.136.32.0:8080/app/"
+const API_URL="http://150.136.32.0:8080/app"
 
 export const LOGIN_POST=API_URL+"/login"
 //Endpoint administrador

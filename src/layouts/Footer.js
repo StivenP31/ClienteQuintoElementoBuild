@@ -32,8 +32,8 @@ const Footer = () => {
       <h6>Lolys Sabalza - Product Owner </h6>
       <h6>Stiven Parada - Main Developer (Backend-Frontend)</h6>
       <h6>Eder Perez - Developer Backend</h6>
-      <h6>jonathan Estiben - Developer Backend</h6>
-      <h6>Noe - Bases de datos</h6>
+      <h6>Jonatan Cardenas - Developer Backend</h6>
+      <h6>Noé Nausan - Bases de datos</h6>
 
           
         </MDBCol>

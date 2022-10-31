@@ -1,7 +1,7 @@
 import { CrearCitaFormulario } from "../components/CrearCitaFormulario"
 import { Alert, Card, Col, Container,  Row } from "react-bootstrap";
 import { useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { CREAR_CITA_POST } from "../Connections/helpers/endpoint";
 import axios from "axios";
 
@@ -34,9 +34,9 @@ const CrearCitas = () =>{
     <Row className="row justify-content-md-center">
         <Col sm="12" md="8" lg="6">
             <h3 className="text-center">Asignar cita</h3>
-            <a href="/recepcion" className="AtrasIcon">
+            <Link href="/recepcion" className="AtrasIcon">
                     <i id="AtrasIcon" className="fa-solid fa-chevron-left">back</i>
-            </a>
+            </Link>
             
                 <Card.Body>
           

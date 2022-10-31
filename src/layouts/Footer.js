@@ -30,7 +30,7 @@ const Footer = () => {
 
       <h6>Carime Carroll - Scrum Master </h6>
       <h6>Lolys Sabalza - Product Owner </h6>
-      <h6>Stiven Parada - Director y Developer (Backend y Frontend)</h6>
+      <h6>Stiven Parada - Main Developer (Backend-Frontend)</h6>
       <h6>Eder Perez - Developer Backend</h6>
       <h6>jonathan Estiben - Developer Backend</h6>
       <h6>Noe - Bases de datos</h6>
